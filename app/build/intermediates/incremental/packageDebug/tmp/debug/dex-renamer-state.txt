@@ -1,0 +1,4 @@
+#Wed Nov 02 15:52:23 IST 2022
+base.0=/Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

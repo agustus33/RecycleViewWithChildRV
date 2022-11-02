@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c0464a3d6f180ee5ce6ca1cb2548ec3/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/c90ed8a9dd706b0386c3d4b8539a1d54/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/6ca811ffefc7acf0e14598a4e8d7ecae/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/49ec77916f056686748b29436db23e95/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/32087948ccb7f1e3d877ff01165968d4/glide-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5b66125139a16a0ac3e4429e5e1ee81f/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2e8cdbf4d90604f561a33a21de98d37c/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7dc97d5beadbae66ede9b95e497a48ab/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fe2ac8d2d4e806d88f07969ef9ae5290/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2571779e0a392ca6207e179219eed8e5/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/849579807721bc33192841f51e989d73/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3e72ed6ec5ec7ec06406c72e34b0a320/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3f15953fb432c97499741f4642da4e9e/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ab7115890f56e160693dd724b387ceaf/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/be14cfb8f52ebaf420094a5dd10efee5/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/095d3a2458dc1fd68e1246319e4a87f8/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bd4963bb06ecd4fc483422309bacc7e9/gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bb07a1adbe9f666fcad440271406f05f/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/73f322ac081b54035a60a6ff5adb5206/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8762043a317ea402c55271fbd46774b1/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2ce668342a5c88ea4977c19f50e4332f/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/9918e38a77c821c580bba125cd1e54de/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c0464a3d6f180ee5ce6ca1cb2548ec3/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c0464a3d6f180ee5ce6ca1cb2548ec3/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/c90ed8a9dd706b0386c3d4b8539a1d54/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/c90ed8a9dd706b0386c3d4b8539a1d54/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/32087948ccb7f1e3d877ff01165968d4/glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/32087948ccb7f1e3d877ff01165968d4/glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bd4963bb06ecd4fc483422309bacc7e9/gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bd4963bb06ecd4fc483422309bacc7e9/gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8762043a317ea402c55271fbd46774b1/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8762043a317ea402c55271fbd46774b1/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:16:9-44
+	android:dataExtractionRules
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.android.shoesRecyclerView.MainActivity
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:18:9-31:20
+	android:exported
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:19:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:28:13-30:36
+	android:value
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:30:17-33
+	android:name
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml:29:17-52
+uses-sdk
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.6.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c0464a3d6f180ee5ce6ca1cb2548ec3/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c0464a3d6f180ee5ce6ca1cb2548ec3/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/c90ed8a9dd706b0386c3d4b8539a1d54/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/c90ed8a9dd706b0386c3d4b8539a1d54/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/6ca811ffefc7acf0e14598a4e8d7ecae/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/6ca811ffefc7acf0e14598a4e8d7ecae/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/49ec77916f056686748b29436db23e95/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/49ec77916f056686748b29436db23e95/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/32087948ccb7f1e3d877ff01165968d4/glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/32087948ccb7f1e3d877ff01165968d4/glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5b66125139a16a0ac3e4429e5e1ee81f/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5b66125139a16a0ac3e4429e5e1ee81f/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2e8cdbf4d90604f561a33a21de98d37c/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2e8cdbf4d90604f561a33a21de98d37c/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7dc97d5beadbae66ede9b95e497a48ab/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7dc97d5beadbae66ede9b95e497a48ab/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fe2ac8d2d4e806d88f07969ef9ae5290/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fe2ac8d2d4e806d88f07969ef9ae5290/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2571779e0a392ca6207e179219eed8e5/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2571779e0a392ca6207e179219eed8e5/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/849579807721bc33192841f51e989d73/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/849579807721bc33192841f51e989d73/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3e72ed6ec5ec7ec06406c72e34b0a320/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3e72ed6ec5ec7ec06406c72e34b0a320/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3f15953fb432c97499741f4642da4e9e/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3f15953fb432c97499741f4642da4e9e/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ab7115890f56e160693dd724b387ceaf/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ab7115890f56e160693dd724b387ceaf/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/e970e5da2e5ba0965bf9c20f1e00e6e9/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/be14cfb8f52ebaf420094a5dd10efee5/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/be14cfb8f52ebaf420094a5dd10efee5/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/095d3a2458dc1fd68e1246319e4a87f8/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/095d3a2458dc1fd68e1246319e4a87f8/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bd4963bb06ecd4fc483422309bacc7e9/gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bd4963bb06ecd4fc483422309bacc7e9/gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bb07a1adbe9f666fcad440271406f05f/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/bb07a1adbe9f666fcad440271406f05f/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/73f322ac081b54035a60a6ff5adb5206/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/73f322ac081b54035a60a6ff5adb5206/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8762043a317ea402c55271fbd46774b1/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8762043a317ea402c55271fbd46774b1/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2ce668342a5c88ea4977c19f50e4332f/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/2ce668342a5c88ea4977c19f50e4332f/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/9918e38a77c821c580bba125cd1e54de/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/9918e38a77c821c580bba125cd1e54de/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustusa/AndroidStudioProjects/ShoesRecyclerView/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/ead2173dcc5bcf671fa8719edc35af48/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/d5113c55437e406c390dbc27f141306c/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/agustusa/.gradle/caches/transforms-2/files-2.1/aa2e7c80d17e56a904cda192cbbbc25b/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

@@ -1,0 +1,14 @@
+com/android/shoesRecyclerView/ParentModel.java
+ com.android.shoesRecyclerView.ParentModel
+com/android/shoesRecyclerView/ChildModel.java
+ com.android.shoesRecyclerView.ChildModel
+com/android/shoesRecyclerView/MainActivity.java
+ com.android.shoesRecyclerView.MainActivity
+com/android/shoesRecyclerView/ParentRecyclerviewAdapter.java
+ com.android.shoesRecyclerView.ParentRecyclerviewAdapter
+ com.android.shoesRecyclerView.ParentRecyclerviewAdapter$MyViewHolder
+com/android/shoesRecyclerView/ChildRecyclerviewAdaper.java
+ com.android.shoesRecyclerView.ChildRecyclerviewAdaper
+ com.android.shoesRecyclerView.ChildRecyclerviewAdaper$MyViewHolder
+com/android/shoesRecyclerView/BuildConfig.java
+ com.android.shoesRecyclerView.BuildConfig
